@@ -16,6 +16,7 @@ Conferencia | País | Año | Fecha
 [SCLA - Sustainable Cities Latin America](https://iot-scla.org/) | Colombia | 2023 | Julio 26 al 28
 [CLIHC - Latin American Conference on Human Computer Interaction](https://clihc2021.laihc.org/index.html) | Virtual | 2021 | Noviembre 22 al 24
 [MICAI - Mexican International Conference on Artificial Intelligence](http://www.micai.org/) | México | 2022 | Octubre 24 al 29
+[CITIE - Tendencias en Innovación Educativa](https://www.ucsm.edu.pe/citie2022/#/) | Perú | 2022 | Noviembre 8 al 10
 
 >No están en un orden en particular.
 
