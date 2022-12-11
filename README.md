@@ -15,6 +15,7 @@ Conferencia | País | Año | Fecha
 [LARS - Latin American Robotics Symposium](https://fei.edu.br/robotica/lars-sbr/index.html) | Brazil | 2022 | Octubre 19 al 21
 [SCLA - Sustainable Cities Latin America](https://iot-scla.org/) | Colombia | 2023 | Julio 26 al 28
 [CLIHC - Latin American Conference on Human Computer Interaction](https://clihc2021.laihc.org/index.html) | Virtual | 2021 | Noviembre 22 al 24
+[MICAI - Mexican International Conference on Artificial Intelligence](http://www.micai.org/) | México | 2022 | Octubre 24 al 29
 
 >No están en un orden en particular.
 
